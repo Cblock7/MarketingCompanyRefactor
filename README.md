@@ -1,1 +1,1 @@
-# MarketingCompanyRefactor
+# MarketingCompanyRefactor Homework Assignment 2
